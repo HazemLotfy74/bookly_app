@@ -1,7 +1,11 @@
-# bookly
+## 📖 Bookly App
 
-A new Flutter project.
+A Flutter application that allows users to explore books using Google Books API, with a smooth and modern user experience.
 
-## Getting Started
+## ✨ Features
 
-application that use google books api to show the free books 
+- 📚 Fetch books from Google Books API  
+- 🔄 Infinite scrolling with pagination for a smooth user experience  
+- ❤️ Add books to favorites and access them   
+- 🔍 Search for books by title or category  
+- 🎨 Clean and intuitive user interface  
